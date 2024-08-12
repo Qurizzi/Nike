@@ -64,7 +64,7 @@ header .Logo {
 .hero {
   width: 100%;
   height: 100vh;
-  background-image: url(./Nike.png);
+  background-image: url(../Nike.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -73,7 +73,7 @@ header .Logo {
 
 .cards {
   width: 100%;
-  background-image: url(./Background.png);
+  background-image: url(../Background.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ header .Logo {
 
 .reviews {
   width: 100%;
-  background-image: url(./Background3.png);
+  background-image: url(../Background3.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -100,7 +100,7 @@ header .Logo {
 
 .delivery {
   width: 100%;
-  background-image: url(./Background2.png);
+  background-image: url(../Background2.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
